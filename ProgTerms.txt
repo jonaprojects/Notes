@@ -1,0 +1,100 @@
+PROGRAMMING CONCEPTS AND TERMS
+--------------------------------------------
+* Pointers
+* References
+* Templates 
+* Recursion
+* Functional Programming - LISP: S expressions, Haskell, ....
+* ByteCode
+* Generics and Generic Data Structures in C#
+* Context Manager
+* RAII - Resource Allocation is initialization 
+* Weak & Strong References
+* Shallow and deep copying 
+* List, set, dictionary comprehensions
+* Inheritance
+* Abstract Class and methods
+* Interfaces
+* Enums 
+* delegates
+* anonymous functions
+* lambda expressions
+* Generators and Iterators
+* Dynamic Memory Allocation : malloc, calloc (c), new (c++)
+* Exceptions and Exception Handling: try, catch / except , finally
+* " Let It Crash" Style (common in erlang) 
+* PEP 8
+* LINQ 
+* WPF, Windows Forms
+* .NET, .NET FrameWork, .NET Core, ASP.NET
+* HTML requests - GET & POST
+* The 5 layers model ( networks ) - Physical, Data Link, Network,   Transportaion, Application
+* Modularity - Programming & Networking
+* Hub
+* Router
+* Default Gateway
+* Subnet Mask
+* IP
+* TCP - three way handshake
+* UDP 
+* SSH
+* DHCP  - dynamic ip allocation
+* ICMP - ping
+* Virtual Machine
+* grep
+* ls 
+* Process
+* Thread
+* Handle 
+* Mutex
+* GIL (Python)
+* Regular Expressions
+* Asynchronus Programming 
+* Await
+* SDL 
+* ctypes
+* tkinter
+* enum VS enum class ( C++ )
+* structs ( C VS C++ VS C# )
+* collections library ( python ) - namedtuple, defaultdict, Counter
+* Heaps - min and max heap
+* Graphs 
+* Singly & Doubly Linked Lists
+* Sets
+* Queues
+* Stacks
+* Call Stack
+* Variable Scope
+* Trees - Complete trees, binary trees, ....
+* Pre-Order, In-Order, Post-Order
+* SysInternals - Process Explorer, Process Monitor, TCPView
+* Registry Editor  
+* Compliation - Linker, Parser, JIT ...
+* Bubble Sort
+* Selection Sort 
+* Insertion Sort 
+* MergeSort
+* QuickSort
+* Binary Search
+* KnapSack Problem
+* Genetic Algorthms: Genome, Population, Crossover, Mutation, Fitness,   Generations
+* Machine Learning: Supervised Learning, Unsupervised learning, Neural   Networks
+* Numpy 
+* Matplotlib, Seaborn
+* Tensorflow
+* Bitwise Operators: AND, OR, XOR, Shift Left, Shift Right
+* Assembly x8086 : mov,add,inc,sub,dec,lea,mul,div, macro, proc, jmp,   je, jb, ja, jl, loop, ....
+* Registers: AX - AH AL , BX - BH BL ,  CX - CH CL, DX - DH DL, SI,   IP.......
+* MODERN ASM - EAX, EBX, ECX, EDX ... ( 32 - 64 bits )
+* Javascript - DOM, function, let & var ..
+* React, Angular, Vue 
+* NodeJS 
+* CSS
+* JSON 
+* Case Sensitive
+* HTML - elements, tags
+* JVM 
+* Android Studio 
+* properties 
+* python - abstractmethod, classmethod, staticmethod 
+* python - pickle library
